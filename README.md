@@ -1,6 +1,6 @@
 # simple bootable
 
-This is a simple example for writing a simple bootable code in assembly language.
+This is a example for writing a simple bootable code in assembly language.
 
 ## Usage
 
